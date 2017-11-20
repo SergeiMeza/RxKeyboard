@@ -8,3 +8,5 @@ docs/
 Pods/
 Examples/**/Podfile.lock
 Carthage/Build
+*.xcconfig
+*.framework.zip
